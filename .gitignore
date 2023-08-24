@@ -9,3 +9,4 @@
 /mongo
 # Node
 /node_modules
+.env
